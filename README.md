@@ -7,7 +7,7 @@
 	Escribir '1: 2'
 	cant_mostrados <- 1 // el primer primo es 2, los otros son todos impares...
 	n <- 3
-	Mientras cant_mostrados <cant_a_mostrar Hacer // ...a partir de 3
+	Mientras cant_mostrados <  cant_a_mostrar Hacer // ...a partir de 3
 		es_primo <- Verdadero
 		Para i<-3 Hasta rc(n) Con Paso 2 Hacer // pienso que es primo hasta que encuentre con que dividirlo
 			Si n MOD i=0 Entonces // ya sabemos que es impar
@@ -28,6 +28,6 @@ FinAlgoritmo
 
 
 
-
+![image](primos.png)
 
 
