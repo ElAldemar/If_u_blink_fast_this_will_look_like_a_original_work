@@ -21,5 +21,6 @@
 		n <- n+2
 	FinMientras
 FinAlgoritmo
-
 </pre>
+
+![image](primos.png)
