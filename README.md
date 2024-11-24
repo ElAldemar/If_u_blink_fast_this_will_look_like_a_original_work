@@ -30,4 +30,4 @@ FinAlgoritmo
 
 
 
-![image](primos.png)
+
