@@ -1,4 +1,4 @@
-# If_u_blink_fast_this_will_look_like_a_original_work
+# If_u_blink_fast_this_would_look_like_a_original_work
 ## Reto 3
 <pre>
   Algoritmo Primos
