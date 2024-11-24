@@ -23,4 +23,11 @@
 FinAlgoritmo
 </pre>
 
+
+
+
+
+
+
+
 ![image](primos.png)
